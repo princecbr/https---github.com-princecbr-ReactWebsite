@@ -1,0 +1,22 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .displayUsers {
+    margin-top: 5px;
+    margin-left: 1px;
+  }
+  
+  .displayUsers div {
+    width: 700px;
+    height: 350px;
+    padding: 40px;
+    margin: 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(180, 62, 62, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: justify;
+  }
+  
