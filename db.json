@@ -52,6 +52,13 @@
       "email": "princegodson1996@gmail.com",
       "password": "121212",
       "id": 3
+    },
+    {
+      "firstname": "Stev",
+      "lastname": "Prin",
+      "email": "princegodson1996@gmail.com",
+      "password": "121212",
+      "id": 4
     }
   ]
 }
